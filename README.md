@@ -1,5 +1,5 @@
 Edited from new branch
 
-Still working on the basics
+Still reviewing some of the basics
 
-New feature 1 
+New features added 
